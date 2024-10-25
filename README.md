@@ -1,5 +1,5 @@
 <!-- Level 3: Add custom code -->
-# 👋 Hi, I'm moshiew!
+# 👋 hello, i'm moshiew!
 👩🏻‍💻 Web Application Developer, Game Developer<br/>
 👩🏻‍🎓 Studying Immersive Media & Game Development<br/>
 

@@ -1,6 +1,6 @@
 <!-- Level 3: Add custom code -->
 # 👋 hello, i'm moshiew!
-👩🏻‍💻 Web Application Developer, Game Developer<br/>
+👩🏻‍💻 Discord Application Developer, Game Developer, Web Application Developer<br/>
 👩🏻‍🎓 Studying Immersive Media & Game Development<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->

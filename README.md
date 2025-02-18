@@ -1,7 +1,7 @@
 <!-- Level 3: Add custom code -->
 # 👋 hello, i'm moshiew!
 👩🏻‍💻 Discord Application Developer, Game Developer, Web Application Developer<br/>
-👩🏻‍🎓 Studying Immersive Media & Game Development<br/>
+👩🏻‍🎓 Currently studying Immersive Media & Game Development<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moshiew&theme=dark&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github)<br/>

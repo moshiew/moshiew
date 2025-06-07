@@ -1,6 +1,6 @@
 <!-- Level 3: Add custom code -->
-# 👩🏻‍💻 Discord Application Developer, Game Developer, Web Application Developer, Software Engineer!
-👋 hello, i'm moshie<br/>
+# 👋 hii, i'm moshie
+👩🏻‍💻 Discord Application Developer, Game Developer, Web Application Developer, Software Engineer!<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moshiew&theme=dark&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github)<br/>

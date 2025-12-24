@@ -16,22 +16,15 @@
   <a href="https://open.spotify.com/user/38umhjv0pu3og7vwuszgs40aj?si=d31ea5003ea84586" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify">
   </a>
-  <a href="https://dev.to/moshiew" target="_blank">
+  <a href="https://teokaix.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to">
   </a>
 
   <br/><br/>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=moshiew&theme=dark&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github" />
-  </a>
+  
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=moshiew&theme=dark" />
   </a>
-
-  <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moshiew&theme=dark&layout=compact" />
 
   <br/><br/>
 

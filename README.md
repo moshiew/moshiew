@@ -1,6 +1,6 @@
 <div align="center">
 
-  # 👋 Hi, I'm Moshie
+  # 👋 Hi, moshie here!
   
   ### 👩🏻‍💻 Discord App • Game Dev • Web App Dev
 
@@ -47,7 +47,5 @@
   <img src="https://github.com/moshiew/moshiew/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
   <br/><br/>
-
-  <img src="https://myreadme.vercel.app/api/embed/moshiew?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 </div>

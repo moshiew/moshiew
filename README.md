@@ -5,6 +5,8 @@
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moshiew&theme=dark&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github)<br/>
 
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark)
+
 # 💻 Programming Languages & Engines
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)

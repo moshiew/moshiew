@@ -16,7 +16,7 @@
   <a href="https://open.spotify.com/user/38umhjv0pu3og7vwuszgs40aj?si=d31ea5003ea84586" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify">
   </a>
-  <a href="https://teokaix.vercel.app/" target="_blank">
+  <a href="https://www.google.com" target="_blank">
     <img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to">
   </a>
 
